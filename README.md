@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain Development.
 - 🌱 I’m currently learning Solidity.
 - 📫 How to reach me:
-- Email: s_gouda@bt.iitr.ac.in
+- Email: s_gouda@ch.iitr.ac.in
 - Instagram @notsocoolsam 
 
 <!---
