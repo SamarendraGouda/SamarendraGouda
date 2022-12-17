@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Solidity.
 - 📫 How to reach me:
         Email: s_gouda@ch.iitr.ac.in
-        Instagram @notsocoolsam 
+        Instagram @sam.jsx_ 
 
 <!---
 samarendra18/samarendra18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
