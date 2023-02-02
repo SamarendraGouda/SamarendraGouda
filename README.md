@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web3.0
 - 📫 How to reach me:
         Email: s_gouda@ch.iitr.ac.in
-        Instagram @sam.jsx_ 
+        Instagram @samarendra.eth
 
 <!---
 samarendra18/samarendra18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
