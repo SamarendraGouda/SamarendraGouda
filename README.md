@@ -4,7 +4,7 @@
 - 📫 How to reach me:
         Email: s_gouda@ch.iitr.ac.in
 - 📍 Built [zkMask](https://github.com/zkMask) at ETHGlobal Paris
-- 🔔 Prev Software Developer @[Push Protocol](https://github.com/ethereum-push-notification-service)
+- 🔔 Prev Software Developer @[Push Protocol](https://github.com/ethereum-push-notification-service). [See Contributions](https://github.com/ethereum-push-notification-service/push-sdk/pulls?q=is%3Apr+is%3Amerged+author%3Asamarendra-push+)
 - ₿  Joint Secretary & Developer @[Blockchain Society IIT Roorkee](https://github.com/BlocSoc-iitr)
 
 <!---
