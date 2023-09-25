@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Samarendra Gouda
-- 👀 I’m a Full Stack Web Developer (MERN).
+- 👀 I’m a Full Stack Web Developer (PERN Stack/ MERN Stack).
 - 🌱 I’m currently learning Blockchain Dev.
 - 📫 How to reach me:
         Email: s_gouda@ch.iitr.ac.in
-- 📍 Built @zkMask at ETHGlobbal Paris
+- 📍 Built [zkMask](https://github.com/zkMask) at ETHGlobbal Paris
 - 🔔 Prev Software Developer Intern @ethereum-push-notification-service
 - ₿ Joint Secretary & Developer @BlocSoc-iitr
 
