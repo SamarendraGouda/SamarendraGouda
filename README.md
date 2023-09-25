@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Blockchain Dev.
 - 📫 How to reach me:
         Email: s_gouda@ch.iitr.ac.in
+- 📍 Built @zkMask at ETHGlobbal Paris
+- 🔔 Prev Software Developer Intern @ethereum-push-notification-service
+- ₿ Joint Secretary & Developer @BlocSoc-iitr
 
 <!---
 samarendra18/samarendra18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
