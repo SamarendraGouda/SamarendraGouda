@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Samarendra Gouda
-- 👀 I’m a Full Stack Web Developer (PERN Stack/ MERN Stack).
-- 🌱 I’m currently learning Blockchain Dev.
-- 📫 How to reach me:
-        Email: s_gouda@ch.iitr.ac.in
-- 📍 Built [zkMask](https://github.com/zkMask) at ETHGlobal Paris
-- 🔔 Prev Software Developer @[Push Protocol](https://github.com/ethereum-push-notification-service). [See Contributions](https://github.com/ethereum-push-notification-service/push-sdk/pulls?q=is%3Apr+is%3Amerged+author%3Asamarendra-push+)
-- ₿  Joint Secretary & Developer @[Blockchain Society IIT Roorkee](https://github.com/BlocSoc-iitr)
+- I am a final year undergrad at IIT Roorkee.
+- 👀 I’m a Full-Stack Developer at Instadapp.
+- ₿  Vice President & Developer @[Blockchain Society IIT Roorkee](https://github.com/BlocSoc-iitr).
+- 📍 Finalist at ETHIndia 2023.
+- 📍 Built [zkMask](https://github.com/zkMask) at ETHGlobal Paris.
+
 
 <!---
 samarendra18/samarendra18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
