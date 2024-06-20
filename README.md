@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samarendra Gouda
-- I am a final year undergrad at IIT Roorkee.
-- 👀 I’m a Full-Stack Developer at Instadapp.
-- ₿  Vice President & Developer @[Blockchain Society IIT Roorkee](https://github.com/BlocSoc-iitr).
+- 📚 I am a final year undergrad at IIT Roorkee.
+- 🚀 I’m a Full-Stack Developer at Instadapp.
+- ₿ Vice President & Developer @[Blockchain Society IIT Roorkee](https://github.com/BlocSoc-iitr).
 - 📍 Finalist at ETHIndia 2023.
 - 📍 Built [zkMask](https://github.com/zkMask) at ETHGlobal Paris.
 
